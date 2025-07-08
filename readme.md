@@ -1,6 +1,7 @@
 # INTRO #
  Normally if u go on to scrape all the private listed companies of india tenders it will take several months to do so with a huge limitational barriers of a ton and tons of website to scrape and if u scrape them all you will have to use many code functions to extarct pdf data or pdf informations you will also require a login id of a govt eVendor which is none to impossible if u just want to see active tenders available 
  and hence the need of a free open sourced Tendor-Search has come up where any one can get any tendor details free of cost.
+  ![image](https://github.com/user-attachments/assets/c932625d-2772-4128-ad49-f96018ee46d1)
 # STEPS TO RUN #
 THERE IS A FOLDER NAME 'TENDER' WHICH HAS 2 FILES - READ , RUN 
 you will find this readme.md in the READ files with a ER - Relationship Diagram i have created which shows the process of how i created the Tender-Search , u have to open the er diagram in (excalidraw.com) and can read the process
@@ -25,3 +26,9 @@ RUN files - IT HAS 2 SIMPLE COLAB NOTEBOOK NAMED - pvt_tender_2.ipynb & auth_nam
 # Updated Versions or Bug Fix #
  - - updated versions will come in future if theres a public demand
    - no bugs found as of 8/july/2025 will see how it goes
+  
+ # Screen-shots
+ ![image](https://github.com/user-attachments/assets/c932625d-2772-4128-ad49-f96018ee46d1)
+ ![image](https://github.com/user-attachments/assets/84d177ef-ff6e-4ca0-96dd-d4d13a63a16e)
+
+
