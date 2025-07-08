@@ -22,7 +22,7 @@ RUN files - IT HAS 2 SIMPLE COLAB NOTEBOOK NAMED - pvt_tender_2.ipynb & auth_nam
 4. No Direct Link to the document to see Details of eProcurement
 # why and how code works ? #
 - - WHY - no 1 click solution to find all public , private tenders on a single trusted webpage and a barrier of misinformation or lack of information.
-  - -  HOW - scraped the tender247 website, by using there cURL i get the python code to automate requests and get data of my choice in 1 click.
+  - -  HOW - by using tender247 website api to shows result of the tenders requested, by using there api , we automate requests and get tender data of request in 1 click.
 # Updated Versions or Bug Fix #
  - - updated versions will come in future if theres a public demand
    - no bugs found as of 8/july/2025 will see how it goes
