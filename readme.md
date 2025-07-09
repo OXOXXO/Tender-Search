@@ -5,8 +5,14 @@
 THERE IS A FOLDER NAME 'TENDER' WHICH HAS 2 FILES - READ , RUN 
 you will find this readme.md in the READ files with a ER - Relationship Diagram i have created which shows the process of how i created the Tender-Search , u have to open the er diagram in (excalidraw.com) and can read the process
 RUN files - IT HAS 2 SIMPLE COLAB NOTEBOOK NAMED - Tender-Search.ipynb & auth_names.ipynb WHICH WHEN IMPORTED [OPEN] IN COLAB NOTEBOOK WILL WORK EFFORTLESSLY 
+
 1. YOU HAVE TO FIRST RUN THE auth_names.ipynb file in the colab and get all the authority names of the tender website of all around the world globally. {ONLY 1 TIME WORK ; I HAVE ALREADY UPLOAD THE AUTH_NAMES.TXT FILE IN THE RUN FILES U CAN USE THAT & UPLOAD IN THE Tender-Search.ipynb File.
+   
 2. NOW GO AND RUN THE SECOND MAIN FILE Tender-Search IN COLAB , WHERE U CAN THEN ENTER THE auth_names.txt file and can run the other cell afterwords which when used will ask u to enter your "ngrok OAUTH TOKEN" (only add at 1 place) and will go and host the file online and u can now search any tender by authority name.
+
+# SINGLE CLICK RUN #
+
+to run this tender-search in colab in 1 click use this link 🔗 - https://githubtocolab.com/OXOXXO/Tender-Search/blob/main/TENDOR/RUN/Tender_Search.ipynb
 
 # FETAURES #
 1. Save Time if u only want to check any company or authority or organisation (13679)Active Tenders in 1 click 
