@@ -37,3 +37,18 @@ to run this tender-search in colab in 1 click use this link 🔗 - https://githu
  ![image](https://github.com/user-attachments/assets/84d177ef-ff6e-4ca0-96dd-d4d13a63a16e)
 
 
+# Technologies Used #
+
+This project utilizes the following technologies:
+
+*   **Python:** The primary programming language for the application logic.
+*   **Flask:** A lightweight web framework used to build the web interface and handle requests/responses.
+*   **Requests:** Used for making HTTP calls to interact with external APIs (specifically `tender247.com`).
+*   **Pandas:** Employed for data manipulation, particularly for structuring the tender data and preparing it for export.
+*   **Openpyxl:** A dependency of Pandas used for generating the Excel file (`.xlsx`) during the export process.
+*   **Pyngrok:** Facilitates exposing the local Flask development server to the internet via ngrok, providing a public URL.
+*   **Io:** Used with `BytesIO` to handle the Excel file in memory before sending it as a download.
+*   **JSON:** Utilized for processing the JSON data received from the API.
+*   **Datetime:** Used for handling and formatting date values, specifically for sorting tenders by due date.
+*   **Warnings:** Used for managing runtime warnings, including suppressing specific types like insecure request warnings.
+*   **Google.colab._debugpy_repr & Types:** Specific to running within a Google Colab environment, used here to patch a potential debugging conflict with Flask.
